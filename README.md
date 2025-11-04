@@ -91,7 +91,7 @@ just remember that you can't purchase success!
 - [Core CS](#core-cs)
   - [Core programming](#core-programming)
   - [Core math](#core-math)
-  - [CS Tools](#cs-tools)
+  - [CS Tools](#cs-tools) ✅
   - [Core systems](#core-systems)
   - [Core theory](#core-theory)
   - [Core security](#core-security)
@@ -187,6 +187,8 @@ Understanding theory is important, but you will also be expected to create progr
 Courses | Duration | Effort | Prerequisites | Discussion | Status
 :-- | :--: | :--: | :--: | :--: | :--:
 [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) | 2 weeks | 12 hours/week | - | [chat](https://discord.gg/5FvKycS) | Completed ✅
+
+
 
 ### Core systems
 
